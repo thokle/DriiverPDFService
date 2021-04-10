@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriiverPDFService", "DriiverPDFService.csproj", "{7DA2F40C-091A-4A36-B9DD-3FAD5BA64590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA2F40C-091A-4A36-B9DD-3FAD5BA64590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA2F40C-091A-4A36-B9DD-3FAD5BA64590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA2F40C-091A-4A36-B9DD-3FAD5BA64590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA2F40C-091A-4A36-B9DD-3FAD5BA64590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
