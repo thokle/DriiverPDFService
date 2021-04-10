@@ -4,7 +4,9 @@
     <projectFile>DriiverPDFService.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04ce8c5e-873d-43b7-a50f-f0600a57d86e" name="Default Changelist" comment="init project" />
+    <list default="true" id="04ce8c5e-873d-43b7-a50f-f0600a57d86e" name="Default Changelist" comment="init project">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DriiverPDFService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DriiverPDFService/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618077332454</updated>
-      <workItem from="1618077333764" duration="523000" />
+      <workItem from="1618077333764" duration="948000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1618077586017</created>
@@ -92,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618077929119</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init project">
+      <created>1618078237145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618078237145</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
